@@ -1,4 +1,4 @@
-# Amazon SSP Barcode Generator Tool
+# Amazon SSP Barcode Generator Tool [2023]
 During my time at Amazon (2022-2023), I developed this Tampermonkey script to improve package scanning efficiency within the **Sortation Services Platform** (SSP). The tool allows employees to instantly generate scannable barcodes based on selected text, eliminating manual entry and reducing errors.
 
 ## 🚀 Measurable Impact
